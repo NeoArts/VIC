@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import Footer from './components/Footer/Footer';
+import Grid from './components/Grid/Grid';
+import Info from './components/Info/Info.tsx';
+import Navbar from './components/Navbar/Navbar';
+import Social from './components/Social/Social';
+import global from './styles/global.css'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar/>
+      <section className='section' id='home'>
+        <Grid first={true}/>
+      </section>
+      <section className='section' id='bio'>
+        <Info/>
+      </section>
+      <section className='section' id='portfolio'>
+        <Grid first={false}/>
+      </section>
+      <section className='section' id='social'>
+        <Social direction={"horizontal"} />
+      </section>
+      <Footer/>
     </div>
   );
 }

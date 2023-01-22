@@ -1,0 +1,36 @@
+.info-container{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding: 20px 5%;
+}
+
+.info-container-data,
+.info-container-image{
+  width: 50%;
+}
+
+.info-container-image img{
+  width: 100%;
+}
+
+.info-container-data{
+  font-size: 1.5rem;
+  line-height: 40px;
+  padding-left: 40px;
+}
+
+@media (max-width: 768px) {
+  .info-container{
+    flex-direction: column;
+  }
+
+  .info-container-data,
+  .info-container-image{
+    width: 100%;
+  }
+
+  .info-container-data{
+    padding-left: 0px;
+  }
+}

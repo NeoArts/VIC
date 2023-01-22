@@ -1,0 +1,24 @@
+.social-container{
+  display: flex;
+  font-size: 3rem;
+  margin-top: 40px;
+}
+
+.social-data{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-data a {
+  color: black;
+}
+
+.social-data p{
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
