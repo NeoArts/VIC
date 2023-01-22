@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/VIC/static/css/main.a086d1f9.css",
+    "main.js": "/VIC/static/js/main.c315bb3a.js",
+    "static/media/LauraVictoriaMartinez4.jpg": "/VIC/static/media/LauraVictoriaMartinez4.f38d4d920eff9903bc86.jpg",
+    "static/media/LauraVictoriaMartinez1.jpg": "/VIC/static/media/LauraVictoriaMartinez1.3ddb2c10095b697a3c23.jpg",
+    "static/media/LauraVictoriaMartinez3.jpg": "/VIC/static/media/LauraVictoriaMartinez3.880a6605e346b0b55a9f.jpg",
+    "static/media/LauraVictoriaMartinez5.jpg": "/VIC/static/media/LauraVictoriaMartinez5.1eed62f3df2874a21b56.jpg",
+    "static/media/LauraVictoriaMartinez2.jpg": "/VIC/static/media/LauraVictoriaMartinez2.4603f9cffbae9a03731c.jpg",
+    "static/media/LauraVictoriaMartinez8.jpg": "/VIC/static/media/LauraVictoriaMartinez8.e5a0611c0a4242b2a1d5.jpg",
+    "static/media/LauraVictoriaMartinez6.jpg": "/VIC/static/media/LauraVictoriaMartinez6.db10701e38b798cdff49.jpg",
+    "static/media/LauraVictoriaMartinez7.jpg": "/VIC/static/media/LauraVictoriaMartinez7.264040138e951a0811ae.jpg",
+    "static/media/LauraVictoriaMartinez1.webp": "/VIC/static/media/LauraVictoriaMartinez1.6c32c3e83256896ed9c7.webp",
+    "static/media/LauraVictoriaMartinez3.webp": "/VIC/static/media/LauraVictoriaMartinez3.42ffddc58f13c9d8db81.webp",
+    "static/media/LauraVictoriaMartinez4.webp": "/VIC/static/media/LauraVictoriaMartinez4.0a93d9001a274fb99367.webp",
+    "static/media/LauraVictoriaMartinez2.webp": "/VIC/static/media/LauraVictoriaMartinez2.ef4a1ca05b6d29a65fd4.webp",
+    "static/media/LauraVictoriaMartinez8.webp": "/VIC/static/media/LauraVictoriaMartinez8.3ef2bcc2de534a86bcfe.webp",
+    "static/media/LauraVictoriaMartinez7.webp": "/VIC/static/media/LauraVictoriaMartinez7.06a6ac7c823bbeea1483.webp",
+    "static/media/LauraVictoriaMartinez6.webp": "/VIC/static/media/LauraVictoriaMartinez6.a52a6ead8cd9d33e391d.webp",
+    "index.html": "/VIC/index.html",
+    "main.a086d1f9.css.map": "/VIC/static/css/main.a086d1f9.css.map",
+    "main.c315bb3a.js.map": "/VIC/static/js/main.c315bb3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a086d1f9.css",
+    "static/js/main.c315bb3a.js"
+  ]
+}
